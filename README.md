@@ -2,7 +2,7 @@
 An interactive Heart Disease Prediction web app built with HTML, TailwindCSS, and React. Users enter clinical metrics to get a calculated risk percentage along with contributing factors. Inspired by the UCI Heart Disease dataset. For educational use only.
 Heart Disease Predictor
 
-An interactive web app that predicts the probability of heart disease based on user-entered clinical metrics. Built using HTML, TailwindCSS, React (CDN), and Babel.
+An interactive web app that predicts the probability of heart disease based on user-entered clinical metrics. Built using HTML,,css and JavaScript.
 The prediction logic is inspired by the UCI Heart Disease dataset and uses a custom weighted scoring algorithm.
 
 Features
